@@ -1,0 +1,4 @@
+#+TITLE: Test
+#+AUTHOR: Cheng Xin
+#+OPTIONS: tex:verbatim
+#+LATEX_CLASS: base/cla
