@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: itemize
+# key: item
+# --
+\vspace{-.5cm}
+\begin{itemize}
+    \item $1
+\end{itemize}

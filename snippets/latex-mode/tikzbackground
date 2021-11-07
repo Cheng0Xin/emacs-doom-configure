@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tikz-background
+# key: tikz-back
+# --
+\begin{pgfonlayer}{background}
+\filldraw [$1] ($2) rectangle ($3);
+\end{pgfonlayer}

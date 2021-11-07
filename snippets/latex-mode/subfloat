@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: subfloat
+# key: subfloat
+# --
+\subfloat[width=$1\linewidth][$2\label{subfig:$3}]
+{\includegraphics[width=$1\linewidth]{$4}} \\

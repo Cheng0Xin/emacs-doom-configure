@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: codeblock
+# uuid:
+# key: begin_src
+# condition: t
+# --
+"
+#+begin_src $1
+$2
+#+end_src
+"

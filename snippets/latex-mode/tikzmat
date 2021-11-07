@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tikz-create-matrix
+# key: tikz-mat
+# --
+\matrix ($1) [matrix of math nodes, row sep = 1cm, column sep = 1cm, $2] {%
+	$3
+};

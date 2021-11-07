@@ -5,7 +5,7 @@
       user-mail-address "claudexin@outlook.com")
 
 ;; Doom theme
-(setq doom-theme 'doom-dark+)
+(setq doom-theme 'doom-gruvbox)
 
 ;; Org directory
 (setq org-directory "~/Workspace/Org/")
