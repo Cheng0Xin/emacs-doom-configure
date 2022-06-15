@@ -1,7 +1,8 @@
 # -*- mode: snippet -*-
 # name: align
+# uuid: 1f939b73-5b2b-43d0-ac01-b4807329d8cb
 # key: align
 # --
-\begin{align}
+\begin{align*}
 $1
-\end{align}
+\end{align*}

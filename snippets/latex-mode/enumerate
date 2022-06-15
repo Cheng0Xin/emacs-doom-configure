@@ -2,7 +2,7 @@
 # name: enumerate
 # key: enum
 # --
-\renewcommand{\labelenumi}{\Roman{enumi}}
+\renewcommand{\labelenumi}{(\roman{enumi})}
 \begin{enumerate}
     \item $1
 \end{enumerate}

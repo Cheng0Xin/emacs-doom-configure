@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: code-racket
+# uuid: bf8d10d0-d669-4061-9c90-dbe075c8719e
+# key: racket
+# condition: t
+# --
+\begin{racket}
+$1
+\end{racket}

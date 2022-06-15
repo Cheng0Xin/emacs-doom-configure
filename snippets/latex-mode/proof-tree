@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: proof-tree
+# uuid: e213b061-b3f1-4581-b367-97df743a24dd
+# key: proof
+# condition: t
+# --
+\begin{prooftree}
+\AxiomC
+\UnaryInfC
+\BinaryInfC
+\TrinaryInfC
+\end{prooftree}

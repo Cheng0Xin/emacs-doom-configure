@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: lagda-code
+# uuid: 6fa4403f-0c62-44fd-9be0-548dc5a74d5f
+# key: code
+# condition: t
+# --
+\begin{code}[hide]
+$1
+\end{code}

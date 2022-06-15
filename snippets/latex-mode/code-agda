@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: code-agda
+# uuid: 8b7a937e-2bbb-480c-8059-c9212cebf931
+# key: agda
+# --
+\begin{code}
+$1
+\end{code}
