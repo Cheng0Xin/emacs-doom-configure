@@ -1,0 +1,1 @@
+/Users/xin/.doom.d/theme/light.el
